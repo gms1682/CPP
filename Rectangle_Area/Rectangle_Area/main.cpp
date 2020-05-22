@@ -9,11 +9,13 @@
 #include <iostream>
 using namespace std;
 
+//Structure
 struct rect{
     int length;
     int breadth;
 };
 
+//Main Program
 int main(int argc, const char * argv[]) {
     struct rect usr_rect;
     
